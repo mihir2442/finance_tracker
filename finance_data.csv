@@ -1,0 +1,18 @@
+date,amount,category,description
+20-07-2024,125.65,Income,Salary
+20-07-2024,2000.0,Income,salary
+02-07-2024,5000.0,Expense,purchase cloth
+01-07-2024,1500.00,Income,Salary
+02-07-2024,200.50,Expense,Grocery Shopping
+05-07-2024,50.00,Expense,Coffee at Cafe
+07-07-2024,300.00,Income,Freelance Payment
+10-07-2024,75.75,Expense,Fuel
+12-07-2024,250.00,Expense,Dining Out
+15-07-2024,500.00,Income,Bonus
+18-07-2024,120.00,Expense,Internet Bill
+20-07-2024,400.00,Income,Rent Received
+23-07-2024,80.00,Expense,Utilities
+25-07-2024,60.00,Expense,Movie Tickets
+27-07-2024,50.00,Expense,Subscription Renewal
+30-07-2024,200.00,Expense,Car Maintenance
+31-07-2024,s1800.00,Income,Commission Payment
